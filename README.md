@@ -5,4 +5,4 @@ The files I was responsible for specifically are the "MainMenu.java", "Calculato
 
 The file, "Visualizer", was done by one of my partners, and at the end, I was responsible for linking/stiching it together with the "Calculator.java" and "Game.java" files. 
 
-The "Projectile.java" file was the back-end calculations used for the projectile motion done by a 3rd partner. 
+The "ProjectileMotion.java" file was the back-end calculations used for the projectile motion done by a 3rd partner. 
